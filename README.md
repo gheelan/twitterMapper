@@ -1,4 +1,4 @@
-# twitterMapper
+# TwitterMapper
 Twitter Stream Mapping Application
 
    This is a final project I completed for the Object-Oriented Programming course of the Software Development MicroMasters Program offered by the University of British Columbia.
