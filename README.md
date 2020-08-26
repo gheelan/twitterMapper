@@ -9,6 +9,6 @@ I've attached a basic UML package diagram as well as some UML class diagrams for
 
 Here's a little demo of the application in action:
 
-The first keyword entered was "messi" (for the soccer player Lionel Messi who was trending at the time), the next set of keywords "the or where" was meant to generate a lot of tweets quickly in order to demonstrate a slightly more complicated example before the screen capture became too large! 
+The first keyword entered was "messi" (for the soccer player Lionel Messi who was trending on Twitter at the time), the next set of keywords "the or where" was meant to generate a lot of tweets quickly in order to demonstrate a slightly more complicated example before the screen capture became too large! 
 
 <a href="https://gifyu.com/image/cPNA"><img src="https://s7.gifyu.com/images/TwitterMapperDemoGIF609d873277c320dc.gif" alt="TwitterMapperDemoGIF609d873277c320dc.gif" border="0" /></a>
